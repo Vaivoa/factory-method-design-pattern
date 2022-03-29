@@ -10,7 +10,7 @@
         public int LimiteTotal { get; protected set; }
         public decimal LimiteDisponivel { get; protected set; }
 
-        public CartaoDeCredito(string nome, string bandeira, int limiteTotal)
+        protected CartaoDeCredito(string nome, string bandeira, int limiteTotal)
         {
             Nome = nome;
             Validade = DateTime.Today.AddYears(5);

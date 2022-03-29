@@ -1,6 +1,6 @@
 ﻿namespace FactoryMethodSample
 {
-    internal class CartaoMasterPlatinumFactory : ICartaoFactory
+    public class CartaoMasterPlatinumFactory : ICartaoFactory
     {
         public CartaoDeCredito GerarCartao(string nome, int limite)
         {
