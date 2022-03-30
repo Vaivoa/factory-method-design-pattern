@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-03-30T08:31:27-03:00",
+  "id": "design-pattern-factory-method",
+  "duration": 17,
+  "title": "Factory Method Design Pattern",
+  "summary": "Implementação do Design Pattern Factory Method",
+  "source": "design-pattern-factory-method.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/Vaivoa/design-pattern-factory-method",
+  "ga": "Google Analytics ID",
+  "url": "design-pattern-factory-method"
+}
