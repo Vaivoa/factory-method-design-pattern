@@ -1,12 +1,3 @@
-author: Vaivoa
-summary: Implementação do Design Pattern Factory Method
-id: design-pattern-factory-method
-categories: codelab,markdown
-environments: Web
-status: Published
-feedback link: https://github.com/Vaivoa/design-pattern-factory-method
-analytics account: Google Analytics ID
-
 # Factory Method Design Pattern
 
 ## Antes de Começar
