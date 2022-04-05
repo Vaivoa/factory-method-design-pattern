@@ -20,7 +20,7 @@
   "tags": [
     "web"
   ],
-  "feedback": "https://github.com/Vaivoa/design-pattern-factory-method",
+  "feedback": "https://github.com/Vaivoa/factory-method-design-pattern/issues",
   "ga": "Google Analytics ID",
   "url": "design-pattern-factory-method"
 }
